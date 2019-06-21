@@ -1,0 +1,11 @@
+An execution error has occured !
+Go back to eclipse and test your code
+ilog.concert.IloException: Impossible to load model.
+	at ilog.opl.opl_lang_wrapJNI.IloOplModel_getOuterModel(Native Method)
+	at ilog.opl.IloOplModel.getOuterModel(IloOplModel.java:549)
+	at ilog.opl.IloOplModel.generate(IloOplModel.java:130)
+	at caseine.format.mip.LPTestCase.loadIloModeler(LPTestCase.java:571)
+	at caseine.format.mip.LPTestCase.runModel(LPTestCase.java:604)
+	at caseine.format.mip.LPTestCase.runTestCase(LPTestCase.java:413)
+	at caseine.CasesAnalyser.runAllTests(CasesAnalyser.java:90)
+	at caseine.CasesAnalyser.main(CasesAnalyser.java:218)

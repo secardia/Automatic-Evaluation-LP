@@ -1,0 +1,41 @@
+<|--
+-Tests results
+-Test 1/10 : GermanWines.mod - none - objective
+Incorrect program result
+Input         : GermanWines.mod - none ([5.0,4.0,3.0])
+Program  Ouput: 485.0 Max
+Expected Ouput: 455.0 Max
+Method        : objective
+-Test 2/10 : GermanWines.mod - none - objective
+Incorrect program result
+Input         : GermanWines.mod - none ([4.0,4.0,0.0])
+Program  Ouput: 306.6666666666667 Max
+Expected Ouput: 305.0 Max
+Method        : objective
+-Test 3/10 : GermanWines.mod - none - objective
+-Test 4/10 : GermanWines.mod - none - objective
+-Test 5/10 : GermanWines.mod - none - objective
+Incorrect program result
+Input         : GermanWines.mod - none ([2.0,3.0,3.0])
+Program  Ouput: 405.0 Max
+Expected Ouput: 375.0 Max
+Method        : objective
+-Test 6/10 : GermanWines.mod - none - objective
+Incorrect program result
+Input         : GermanWines.mod - none ([2.0,5.0,1.0])
+Program  Ouput: 405.0 Max
+Expected Ouput: 374.99999999999994 Max
+Method        : objective
+-Test 7/10 : GermanWines.mod - none - objective
+-Test 8/10 : GermanWines.mod - none - objective
+-Test 9/10 : GermanWines.mod - none - objective
+-Test 10/10 : GermanWines.mod - none - random
+Incorrect program result
+Input         : GermanWines.mod - none ([-16.0,33.0,45.0])
+Message       : check
+Program  Ouput: 5355.0 Max
+Expected Ouput: 5025.0 Max
+Method        : random (1)
+--|>
+Grade :=>> 50
+

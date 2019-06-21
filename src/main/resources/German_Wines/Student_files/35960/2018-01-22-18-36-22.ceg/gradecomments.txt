@@ -1,0 +1,11 @@
+-Tests results
+-Test 1/10 : GermanWines.mod - none - objective
+-Test 2/10 : GermanWines.mod - none - objective
+-Test 3/10 : GermanWines.mod - none - objective
+-Test 4/10 : GermanWines.mod - none - objective
+-Test 5/10 : GermanWines.mod - none - objective
+-Test 6/10 : GermanWines.mod - none - objective
+-Test 7/10 : GermanWines.mod - none - objective
+-Test 8/10 : GermanWines.mod - none - objective
+-Test 9/10 : GermanWines.mod - none - objective
+-Test 10/10 : GermanWines.mod - none - random
