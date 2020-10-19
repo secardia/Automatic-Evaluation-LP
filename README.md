@@ -5,6 +5,9 @@ This is a tests generator for automatic evaluation of linear program model.
 
 * [Maven](https://maven.apache.org/) - Dependency Management
 
+## Requirements
+
+You will need to have `CPLEX` installed (and in your path) to build this application.
 
 ## Authors
 
